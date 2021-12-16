@@ -1,4 +1,3 @@
-
 const casillas = 64;
 
 var peso = parseInt (prompt ("Introduce cuanto pesa un grano de trigo en gramos."));

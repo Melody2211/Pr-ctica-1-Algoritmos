@@ -1,4 +1,3 @@
-
 const input = 12;
 const Yards = 36;
 const Pies = 12;

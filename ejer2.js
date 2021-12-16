@@ -1,4 +1,3 @@
-
 let num = 9;
 let sum = 0;
 

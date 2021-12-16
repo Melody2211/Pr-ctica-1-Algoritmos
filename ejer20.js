@@ -1,4 +1,3 @@
-
 var n = prompt("Ingrese el número de latas");
 var niveles = 0;
 var sobrantes = 0;

@@ -1,4 +1,3 @@
-
 var monto = parseInt(prompt ("Introduce la cantidad que quieres ahorrar."));
 
 var interes = parseInt (prompt ("Introduce la tasa de interes."));

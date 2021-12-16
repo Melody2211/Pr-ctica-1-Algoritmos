@@ -1,5 +1,3 @@
-
-  
 var meses = 1 * prompt ("Introduce la cantidad de meses como tope de la operacion.");
 
 var conejos = fibonacci (meses);

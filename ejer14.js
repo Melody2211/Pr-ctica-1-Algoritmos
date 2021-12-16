@@ -1,4 +1,3 @@
-
 var grafArr = function(arr, num, car) {
     var max = Math.max.apply(null, arr);
     var min = Math.min.apply(null, arr);

@@ -1,4 +1,3 @@
-
 var horasTrabajadas = prompt("Ingrese el número de horas trabajadas");
 var salarioPorHora = prompt("Ingrese el salario por hora");
 var salarioBruto = horasTrabajadas * salarioPorHora;

@@ -1,4 +1,3 @@
-
 var hanoi = function(n, from, to, aux) {
     if (n === 1) {
         console.log('Mover disco de ' + from + ' a ' + to);

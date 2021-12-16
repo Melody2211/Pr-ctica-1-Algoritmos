@@ -1,4 +1,3 @@
-
 var cdigs = function(cantidad, digito){
     var contador = 0;
     for(var i = 0; i < cantidad.length; i++){

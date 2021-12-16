@@ -1,4 +1,3 @@
-
 var suma = 0;
 var sumaCuadrados = 0;
 var promedio = 0;

@@ -1,4 +1,3 @@
-
 var a = 1 * prompt ("Introduce el valor de (a).");
 var b = 1 * prompt ("Introduce el valor de (b).");
 var c = 1 * prompt ("Introduce el valor de (c).");

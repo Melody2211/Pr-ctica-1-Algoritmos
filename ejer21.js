@@ -1,4 +1,3 @@
-
 var matriz = [1, 2, 3, 4, 6];
 var sum = 6;
 function searchPair(matriz, sum) {

@@ -1,4 +1,3 @@
-
 var poblacion=0;
 poblacion =parseInt(prompt("Digite el numero de la poblacion actual"));
 var natalidad =0;

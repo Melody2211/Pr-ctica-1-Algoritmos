@@ -1,4 +1,3 @@
-
 var array = [2, 3, 3, 3, 6, 9, 9];
 function eliminarDuplicados(array) {
     var i = 0;

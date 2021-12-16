@@ -1,4 +1,3 @@
-
 const slidingWindow = (arr, k) => {
     let start= 0;
     let max = 0;

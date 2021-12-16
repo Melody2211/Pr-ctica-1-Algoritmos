@@ -1,4 +1,3 @@
-
 var num1 = 1 * prompt ("Introduce el primer numero");
 
 var num2 = 1 * prompt ("Introduce el segundo numero");

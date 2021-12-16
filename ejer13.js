@@ -1,4 +1,3 @@
-
 const linea = (n, char) => {
     let linea = '';
     for (let i = 0; i < n; i++) {

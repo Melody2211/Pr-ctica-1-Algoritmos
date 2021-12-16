@@ -1,4 +1,3 @@
-
 var n = prompt("Ingrese el número de términos de la serie Fibonacci que desea calcular");
 var a = 0;
 var b = 1;

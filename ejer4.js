@@ -1,4 +1,3 @@
-
 const mediaArmonica = (a, b) => {
 
     const aI = 1 / a;

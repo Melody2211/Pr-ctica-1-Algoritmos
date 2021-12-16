@@ -1,4 +1,3 @@
-
 var tripoTriang = function(a, b, c) {
     if (a === b && b === c) {
         return 1;
